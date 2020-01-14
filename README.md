@@ -75,7 +75,7 @@ First let's fire up our server:
 - Mac OS only:
 
 ```bash
-brew services start mongodb
+mongod
 ```
 
 - Ubuntu Only:
