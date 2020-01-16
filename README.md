@@ -122,11 +122,6 @@ For instance, if we didn't specify the database on the command line, we can
 connect to a database with `use <database-name>`:
 
 ```bash
-$ mongo
-MongoDB shell version v3.x.x
-connecting to: test
-> db
-test
 > use mongo-crud
 switched to db mongo-crud
 > db
