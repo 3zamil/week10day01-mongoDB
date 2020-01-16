@@ -122,6 +122,8 @@ For instance, if we didn't specify the database on the command line, we can
 connect to a database with `use <database-name>`:
 
 ```bash
+> use test
+switched to db test
 > use mongo-crud
 switched to db mongo-crud
 > db
