@@ -171,7 +171,12 @@ mongoimport --db=mongo-crud --collection=people --type=csv --headerline --file=d
 
 If we want to clear the collection before the import, we pass the `--drop` flag.
 
-Run this script by typing:
+First, let's exit the mongo shell:
+```bash
+ quit()
+ ```
+
+Run the script by typing:
 
  ```bash
  sh path_to_file.sh
