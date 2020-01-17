@@ -276,8 +276,8 @@ What do we see?
 ### Code Along: Read People and Doctors
 
 Together, we'll build a query for our people collection. Let's see if we
-can find all people born after a date. How about the number of people under
-5 feet tall? What about all the doctors who perform surgery?
+can find all people born after a date. How about the number of people over
+71 inches tall? What about all the doctors who perform surgery?
 
 ### Lab: Read Ingredients
 
