@@ -356,16 +356,7 @@ Update a couple of ingredients' units.
   - Overview of adding documents to a collection.
 - [`insert`](https://docs.mongodb.org/manual/reference/method/db.collection.insert/)
   - Detailed documentation of MongoDB's `insert` collection method.
-
-Next, we'll use the `insert` collection method to add a few more people.  We'll
-save our invocations in `scripts/insert/people.js`.  We'll execute that script
-using the `mongo` `load` method.  Let's give these people a middle_initial or a
-nick_name. Note that the attributes we choose for these people need not match
-those from the data we loaded in bulk.
-
-```bash
-> load('practice-scripts/insert/people.js');
-```
+`
 
 ### Code along: Insert Doctors
 
