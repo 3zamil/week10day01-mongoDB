@@ -215,10 +215,7 @@ terminal (not the Mongo shell!).
   - Detailed documentation on the `find` collection method.
 - [`findOne`](https://docs.mongodb.org/manual/reference/method/db.collection.findOne/)
   - Detailed documentation on the `findOne` collection method.
-- [Data aggregation](https://docs.mongodb.org/getting-started/shell/aggregation/)
-  - Overview of summarizing documents.
-- [`aggregate`](https://docs.mongodb.org/manual/reference/method/db.collection.aggregate/)
-  - Detailed documentation on the `aggregate` collection method.
+
 
 MongoDB uses JSON natively (technically
 [BSON](https://docs.mongodb.org/manual/reference/glossary/#term-bson)), which
@@ -276,8 +273,7 @@ What do we see?
 ### Code Along: Read People and Doctors
 
 Together, we'll build a query for our people collection. Let's see if we
-can find all people born after a date. How about the number of people over
-71 inches tall? What about all the doctors who perform surgery?
+can find all people people over 71 inches tall? What about all the doctors who perform surgery?
 
 ### Lab: Read Ingredients
 
