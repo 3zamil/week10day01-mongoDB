@@ -343,7 +343,7 @@ What happens if we run an `update` command without the `$set` option?
 
 ### Code along: Update People and Doctors
 
-Now, let's update some people with a hometown. Let's update some doctors'
+Now, let's update some people by their name. Let's update some doctors'
 specialties.
 
 ### Lab: Update Ingredients
